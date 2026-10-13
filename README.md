@@ -2,7 +2,7 @@
 
 ## 项目简介
 本项目从零搭建了一台五自由度桌面级机械臂，实现了底层舵机驱动、串口文本协议控制、平滑移动算法以及安全防堵转保护。
-
+* 视频链接：https://www.bilibili.com/video/BV17qpu6EESL/?share_source=copy_web&vd_source=7aeee94544c3c190044c320a801021d6
 ## 硬件清单
 *   主控板：Arduino Uno R3
 *   舵机驱动板：PCA9685 (16路 PWM)
